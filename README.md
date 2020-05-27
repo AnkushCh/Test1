@@ -1,2 +1,3 @@
 # Test1
-New test 
+Creating new repository for understanding fundamentals of github
+
